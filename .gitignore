@@ -26,5 +26,6 @@ doc/
 # Vagrant artifacts
 ubuntu-*-console.log
 
-locales/*.yaml
+locales/*.yml
 source/localizable/*
+source/includes/*
